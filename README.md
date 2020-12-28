@@ -14,4 +14,4 @@ Yes, this year I hardly contributed anything, although next year I will.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EncryptedScreen)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?LeakOS=324650034)
+  ![visitors](https://visitor-badge.laobi.icu/badge?LeakOS=README.md)
