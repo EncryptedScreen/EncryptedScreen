@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a web programmer from Mexico who loves open source and its qualities.
+I am a web programmer who loves open source and its qualities.
 
 I program mainly in JavaScript and Python, although I also use some other languages.
 
