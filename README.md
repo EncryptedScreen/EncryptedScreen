@@ -19,7 +19,7 @@ Contact:
 <img src="https://img.icons8.com/plasticine/100/000000/discord-logo.png"/>
 </a>
 
-
+Stats:
 
 [![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=Accomigt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
