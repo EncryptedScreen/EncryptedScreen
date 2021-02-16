@@ -24,7 +24,7 @@ I like airplanes, the mathematics, the science, the computers, the forums, and a
 
 🏆Platforms I Use:
 
-<img src="https://img.icons8.com/dusk/100/000000/epic-games.png"/> <img src="https://img.icons8.com/plasticine/100/000000/twitch.png"/> <img src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/dusk/100/000000/reddit.png"/>
+<img src="https://img.icons8.com/dusk/100/000000/epic-games.png"/> <img src="https://img.icons8.com/plasticine/100/000000/twitch.png"/> <img src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/dusk/100/000000/reddit.png"/> <img src="https://img.icons8.com/plasticine/100/000000/github.png"/>
 
 #### Contact:
 
