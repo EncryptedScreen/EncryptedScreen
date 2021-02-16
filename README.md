@@ -28,13 +28,14 @@ I like airplanes, the mathematics, the science, the computers, the forums, and a
 
 🏆Platforms I Use:
 
-<img src="https://img.icons8.com/dusk/100/000000/epic-games.png"/> <img src="https://img.icons8.com/plasticine/100/000000/twitch.png"/> <img src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/dusk/100/000000/reddit.png"/> <img src="https://img.icons8.com/plasticine/100/000000/github.png"/>
+<img src="https://img.icons8.com/dusk/100/000000/epic-games.png" height="50em"/> <img src="https://img.icons8.com/plasticine/100/000000/twitch.png" height="50em"/> <img src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png" height="50em"/> <img src="https://img.icons8.com/dusk/100/000000/reddit.png" height="50em"/> <img src="https://img.icons8.com/plasticine/100/000000/github.png" height="50em"/>
 
 #### Contact:
 
 <a href="https://discord.com/users/582372411228291092">
-<img src="https://img.icons8.com/plasticine/100/000000/discord-logo.png"/>
+<img src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" height="50em"/>
 </a>
+[<img src="https://github.com/uannabi/-/blob/master/resource/social/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow icode"/>](https://stackoverflow.com/users/14620410/icode)
 
 ##### Stats:
 
