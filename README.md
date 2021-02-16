@@ -1,6 +1,6 @@
 <img src="https://image.freepik.com/vector-gratis/elegante-fondo-degradado_1340-3947.jpg" width=1000px height="200px"/>
 
-### Hola 👋
+### 🎨 Hola 🎨
 
 <div align="center">
 <h1>About me</h1>
