@@ -36,8 +36,8 @@ I like airplanes, the mathematics, the science, the computers, the forums, and a
 
 ##### Stats:
 
-[![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=Accomigt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=Accomigt&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Accomigt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Accomigt&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Accomigt/Accomigt/edit/main/README.md)
