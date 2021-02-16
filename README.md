@@ -35,6 +35,7 @@ I like airplanes, the mathematics, the science, the computers, the forums, and a
 <a href="https://discord.com/users/582372411228291092">
 <img src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" height="50em"/>
 </a>
+<br>
 <a href="https://stackoverflow.com/users/14620410/icode">
 <img src="https://github.com/uannabi/-/blob/master/resource/social/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow icode"/>
 </a>
