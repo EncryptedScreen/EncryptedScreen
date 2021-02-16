@@ -9,6 +9,11 @@ I like airplanes, the mathematics, the science, the computers, the forums, and a
 
 -----
 
+## Currently do:
+* ⌨ || Improving my skills with HTMl, CSS and JavaScript.
+* 🎮 || Making Videogames
+
+---
 ## I Work with:
 
 🎭Languages:
