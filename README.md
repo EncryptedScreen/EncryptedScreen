@@ -10,7 +10,7 @@ I like airplanes, the mathematics, the science, the computers, the forums, and a
 -----
 
 ## Fun Facts ♻
-★ Did you know that green arrow first appeared in a comic in 1941?
+★ Did you know that green arrow first appeared in a comic was in 1941?
 
 📧The first person to send an e-mail was Roy Tomlinson!
 
