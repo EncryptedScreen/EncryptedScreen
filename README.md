@@ -2,16 +2,21 @@
 
 <div align="center">
 <h1>About me</h1>
-Hi, my name is Carlos, I'm an intermediate programmer who loves to contribute to open source, forums, social networks, etc.
+Hi, my name is Carlos, I'm an begginer programmer who loves to contribute to open source, forums, social networks, etc.
 
 I like airplanes, the mathematics, the science, the computers, the forums, and a lot of things more.🧾💻
 </div>
 
 -----
 
+## Fun Facts ♻
+★ Did you know that green arrow first appeared in a comic in 1941?
+📧The first person to send an e-mail was Roy Tomlinson!
+
+---
 ## Currently do:
-* ⌨ || Improving my skills with HTMl, CSS and JavaScript.
-* 🎮 || Making Videogames
+* ⌨ || Improving my typing.
+* 🎮 || Contributing to open source
 
 ---
 ## I Work with:
