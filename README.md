@@ -46,6 +46,7 @@ I like airplanes, the mathematics, the science, the computers, the forums, and a
 <img src="https://github.com/uannabi/-/blob/master/resource/social/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow icode"/>
 </a>
 
+![Metrics](https://metrics.lecoq.io/accomigt template=terminal&repositories.forks=true&repositories.affiliations=collaborator&lines=1&followup=1&config.timezone=America%2FMexico_City&config.padding=10%25%2C%2015%25)q
 
 ##### Stats:
 
