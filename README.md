@@ -49,6 +49,10 @@ I like airplanes, the mathematics, the science, the computers, the forums, and a
 ![Metrics](https://metrics.lecoq.io/accomigttemplate=terminal&repositories.forks=true&repositories.affiliations=collaborator&lines=1&followup=1&config.timezone=America%2FMexico_City&config.padding=10%25%2C%2015%25)
 
 ##### Stats:
+<a href="https://wakatime.com/@accomigt">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=accomigt&show_icons=true&hide_border=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200">
+</a>  
+
 
 [![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=Accomigt&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
