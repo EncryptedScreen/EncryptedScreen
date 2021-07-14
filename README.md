@@ -1,51 +1,65 @@
 ### 🎨 Hola 🎨
 
-<div align="center">
-<h1>About me</h1>
-Hi, my name is Carlos, I'm an begginer programmer who loves to contribute to open source, forums, social networks, etc.
 
-I like airplanes, the mathematics, the science, the computers, the forums, and a lot of things more.🧾💻
-</div>
 
------
+<!-- Profile Views Counter -->
+![Profile views](https://gpvc.arturio.dev/oKalonm?v=3)
 
-## Fun Facts ♻
-★ Did you know that green arrow first appeared in a comic was in 1941?
-
-📧The first person to send an e-mail was Roy Tomlinson!
-
----
-## Currently do:
-* ⌨ || Improving my typing.
-* 🎮 || Contributing to open source
-
----
-## I Work with:
-
-🎭Languages:
-<p align="center">
-<img src="https://img.shields.io/badge/lua%20-%231572B6.svg?&style=for-the-badge&logo=lua"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img src="https://img.shields.io/badge/python%203%20-%23417FB0.svg?&style=for-the-badge&logo=python&logoColor=white"/>   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/++%20-%231572B6.svg?&style=for-the-badge&logo=c&logoColor=white"> 
-</p>
-
-🎇Utilities:
-<p align="center">
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=red"/> 
-</p>
-
-🏆Platforms I Use:
-
-<img src="https://img.icons8.com/dusk/100/000000/epic-games.png" height="50em"/> <img src="https://img.icons8.com/plasticine/100/000000/twitch.png" height="50em"/> <img src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png" height="50em"/> <img src="https://img.icons8.com/dusk/100/000000/reddit.png" height="50em"/> <img src="https://img.icons8.com/plasticine/100/000000/github.png" height="50em"/>
-
-#### Contact:
-
-<a href="https://discord.com/users/582372411228291092">
-<img src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" height="50em"/>
-</a>
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hello World!, I am
+                <b><a target="_blank" href="">Kalon</a></b>
+        </samp>
+</h3>
 <br>
-<a href="https://stackoverflow.com/users/14620410/icode">
-<img src="https://github.com/uannabi/-/blob/master/resource/social/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow icode"/>
-</a>
 
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「 From Dhaka, Bangladesh 」
+              
+                <br>
+                <br>
+        </samp>
+        <!-- Programming Languages -->
+        <!-- Code logo -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Code"
+                        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
+        </a>
+        <!-- HTML -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="HTML"
+                        src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+        </a>
+        <!-- CSS  -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="CSS"
+                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+        </a>
+        <!-- JavaScript -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        </a>
+        <!-- Python -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+        </a>
+        <!-- C++ -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
+                        src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
+        </a>
+        <!-- Arduino -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
+                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        </a>
+</p>
+
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
 
 
 ##### Stats:
