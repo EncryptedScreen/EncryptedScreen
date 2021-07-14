@@ -31,12 +31,5 @@
 </a>  
 
 
-[![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=Accomigt&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Accomigt&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Accomigt/Accomigt/edit/main/README.md)
-
-════ ⋆★⋆ ════ ⋆★⋆ ════════ ⋆★⋆ ════════ ⋆★⋆ ════════ ⋆★⋆ ════════ ⋆★⋆ ════════ ⋆★⋆ ════════ ⋆★⋆ ════════ ⋆★⋆ ════════ ⋆★⋆ ════════ ⋆★⋆ ════════ ⋆★⋆ ════════ ⋆★⋆ ════════ 
 
 <img src="https://camo.githubusercontent.com/25cebc5cae4a01ff5d3e1199aac7e4b83bcf1d341f6313173a994727d17a3ecb/68747470733a2f2f692e616c6578666c69706e6f74652e6465762f346839336775792e706e67"/>
