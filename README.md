@@ -16,8 +16,8 @@
 
 
 <!-- Footer -->
-I'm currently doing   <img src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/638581986205630464
-                            )](https://discord.com/users/638581986205630464)" align="center" height="205">
+I'm currently doing  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/638581986205630464
+                            )](https://discord.com/users/638581986205630464)"
 
 ##### Stats:
 <a href="https://wakatime.com/@accomigt">
