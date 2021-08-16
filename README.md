@@ -11,7 +11,7 @@
 </h3>
 <br>
 
-<p Soy un desarrollador web aprendiendo Javascript completamente. align="center">
+
 
 
 <!-- Footer -->
