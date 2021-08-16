@@ -15,6 +15,7 @@
 
 
 <!-- Footer -->
+        <a href="https://lanyard-profile-readme.vercel.app/api/751600253752442971">
 <a href="https://discord.com/users/582372411228291092">
 
 ##### Stats:
