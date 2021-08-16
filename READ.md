@@ -15,8 +15,8 @@
 
 
 <!-- Footer -->
-        <a href="https://lanyard-profile-readme.vercel.app/api/751600253752442971">
-<a href="https://discord.com/users/582372411228291092">
+        <img src="https://lanyard-profile-readme.vercel.app/api/751600253752442971" align="center" height="205">
+
 
 ##### Stats:
 <a href="https://wakatime.com/@accomigt">
