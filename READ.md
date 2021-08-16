@@ -5,7 +5,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hello World!, I am
+        <samp>&gt; Hola mundo, soy
                 <b><a target="_blank" href="">Kalon</a></b>
         </samp>
 </h3>
@@ -15,7 +15,7 @@
 
 
 <!-- Footer -->
-<img src="https://lanyard-profile-readme.vercel.app/api/751600253752442971" align="center" height="205">
+<img src="(https://lanyard-profile-readme.vercel.app/api/582372411228291092)](https://discord.com/users/582372411228291092)" align="center" height="205">
 
 
 ##### Stats:
