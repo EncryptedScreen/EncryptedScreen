@@ -15,7 +15,7 @@
 
 
 <!-- Footer -->
-<img src="(https://lanyard-profile-readme.vercel.app/api/582372411228291092)](https://discord.com/users/582372411228291092)" align="center" height="205">
+<img src="https://lanyard-profile-readme.vercel.app/api/582372411228291092" align="center" height="205">
 
 
 ##### Stats:
