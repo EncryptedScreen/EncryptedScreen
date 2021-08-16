@@ -12,11 +12,10 @@
 <br>
 
 <p align="center">
-        <!-- Organisation  -->
 
 
 <!-- Footer -->
-
+<a href="https://discord.com/users/582372411228291092">
 
 ##### Stats:
 <a href="https://wakatime.com/@accomigt">
