@@ -12,7 +12,11 @@
 <br>
 
 
+- 🎒 I'm currently learning front-end development.
+- 📚 I'm also learning java.
+- ⚡ I regularly write code for more than 2 hours.
 
+<br>
 
 <!-- Footer -->
 <h2 align="center">Spotify</h2>
