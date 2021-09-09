@@ -15,8 +15,8 @@
 
 
 <!-- Footer -->
-<p>Now playing<p>
-        [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7cxu1414pt4b2r7am1m2fay2q&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+<h2 align="center">Spotify</h2>
+<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7cxu1414pt4b2r7am1m2fay2q&cover_image=true&theme=novatorem"/></a></div>
         
         
 <img src="https://lanyard-profile-readme.vercel.app/api/582372411228291092" align="center" height="205">
