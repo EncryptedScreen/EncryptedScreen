@@ -24,7 +24,7 @@
 
 ##### Estadisticas:
 <a href="https://wakatime.com/@accomigt">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=accomigt&show_icons=true&hide_border=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=accomigt&show_icons=true&hide_border=true&theme=highcontrast" align="center">
 </a>  
 
 
