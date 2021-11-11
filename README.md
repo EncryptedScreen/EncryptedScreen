@@ -22,7 +22,7 @@
         
 <h2 align="center">My Discord</h2>        
 
-![Alt](https://discord.c99.nl/widget/theme-4/669452973755072524.png)
+![Alt](https://discord.c99.nl/widget/theme-1/582372411228291092.png)
 
 
  <br>
