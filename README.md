@@ -21,7 +21,10 @@
 <!-- Footer -->
         
 <h2 align="center">My Discord</h2>        
-<div align="center"><img src="https://lanyard-profile-readme.vercel.app/api/582372411228291092" align="center" height="205"></div>
+
+![Alt](https://discord.c99.nl/widget/theme-4/669452973755072524.png)
+
+
  <br>
  
 <h2 align="center">Spotify</h2>
