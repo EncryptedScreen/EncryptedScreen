@@ -14,7 +14,7 @@
 
 - 🎒 I'm currently learning front-end development.
 - 📚 I'm also learning java.
-- ⚡ I regularly write code for more than 2 hours.
+- ⚡ I regularly code twice a week.
 
 <br>
 
