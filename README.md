@@ -27,8 +27,6 @@
 
  <br>
  
-<h2 align="center">Spotify</h2>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7cxu1414pt4b2r7am1m2fay2q&cover_image=true&theme=default"/></div>
 
 ##### Estadisticas:
 <a href="https://wakatime.com/@accomigt">
