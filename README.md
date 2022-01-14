@@ -14,7 +14,6 @@
 
 - 🎒 I'm currently learning front-end development.
 - 📚 I'm also learning java.
-- ⚡ I regularly code twice a week.
 
 <br>
 
@@ -28,7 +27,7 @@
  <br>
  
 
-##### Estadisticas:
+##### Stats:
 <a href="https://wakatime.com/@accomigt">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=accomigt&show_icons=true&hide_border=true&theme=highcontrast" align="center">
 </a>  
